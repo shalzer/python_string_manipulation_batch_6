@@ -13,3 +13,4 @@ for letter in statement:
         result += letter.upper()
     else:
         result += letter.lower()
+print(result)
