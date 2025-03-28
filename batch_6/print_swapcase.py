@@ -6,3 +6,4 @@
 #print the result
 
 statement = input("Enter a statement: ")
+result = ""
