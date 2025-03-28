@@ -6,3 +6,5 @@
 #create a loop for each word
 #capitalize first letter, the rest lowercase
 #print result
+
+text = input("Enter a statement: ")
