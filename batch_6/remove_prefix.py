@@ -7,3 +7,5 @@
 
 user_input = input("Enter text: ")
 prefix = input("Prefix to remove: ")
+
+if user_input.startswith(prefix):
