@@ -3,3 +3,5 @@
 #Ask for user's input
 #convert the first letter to uppercase, the rest to lowercase
 #print result
+
+text = input("Enter text: ")
