@@ -7,3 +7,7 @@
 
 statement = input("Enter a statement: ")
 result = ""
+
+for letter in statement:
+    if letter.islower():
+        result += letter.upper()
