@@ -10,4 +10,3 @@ prefix = input("Prefix to remove: ")
 
 if user_input.startswith(prefix):
     user_input = user_input[len(prefix):]
-print(user_input)
