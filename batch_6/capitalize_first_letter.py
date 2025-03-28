@@ -5,3 +5,4 @@
 #print result
 
 text = input("Enter text: ")
+result = text[0].upper() + text[1:].lower()
