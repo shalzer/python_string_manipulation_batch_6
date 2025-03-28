@@ -11,3 +11,5 @@ result = ""
 for letter in statement:
     if letter.islower():
         result += letter.upper()
+    else:
+        result += letter.lower()
