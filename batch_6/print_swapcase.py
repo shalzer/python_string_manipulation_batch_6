@@ -4,3 +4,5 @@
 #if the letter is in lowercase, convert into upper
 #else, convert it to lowercase
 #print the result
+
+statement = input("Enter a statement: ")
