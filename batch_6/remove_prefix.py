@@ -6,3 +6,4 @@
 #print result
 
 user_input = input("Enter text: ")
+prefix = input("Prefix to remove: ")
