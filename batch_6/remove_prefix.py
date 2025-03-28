@@ -4,3 +4,5 @@
 #Check if it starts w prefix
 #remove if yes
 #print result
+
+user_input = input("Enter text: ")
