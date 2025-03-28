@@ -8,3 +8,4 @@
 #print result
 
 text = input("Enter a statement: ")
+words = text.split()
