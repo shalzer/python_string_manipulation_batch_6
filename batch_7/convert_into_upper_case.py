@@ -7,3 +7,4 @@
 
 text = input("Enter text: ")
 TEXT = text.lower()
+text_uppercase = TEXT.swapcase()
