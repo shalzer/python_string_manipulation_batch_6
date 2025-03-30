@@ -6,3 +6,9 @@
 #Print the final output
 
 text = input("Enter text: ")
+width = input("Enter width: ")
+space = width
+
+while len(statement) < width:
+    statement = statement + " "
+    space += 1
