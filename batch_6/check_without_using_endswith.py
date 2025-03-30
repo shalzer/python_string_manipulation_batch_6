@@ -11,3 +11,5 @@ suffix = input("Suffix to check: ")
 
 if text[-len(suffix):] == suffix:
     print(f"The text ends with {suffix}")
+else:
+    print(f"The text does NOT end with {suffix}")
