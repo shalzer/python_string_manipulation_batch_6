@@ -6,3 +6,6 @@
 #if yes, keep the text
 #else, calculate the number of spaces needed to add to total width
 #print output
+
+text = input("Enter text: ")
+width = int(input("Enter total width: "))
