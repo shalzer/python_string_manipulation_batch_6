@@ -5,3 +5,6 @@
 #Check if the input ends with the entered prefix
 #Print if it starts with the entered prefix
 #Else, it will print "does not start with"
+
+text = input("Enter text: ")
+prefix = input("Prefix to check: ")
