@@ -6,3 +6,4 @@
 # Print the result
 
 text = input("Enter text: ")
+TEXT = text.lower()
