@@ -7,3 +7,4 @@
 #Else, it will print "does not end with"
 
 text = input("Enter text: ")
+suffix = input("Suffix to check: ")
