@@ -6,9 +6,10 @@
 #Print the final output
 
 text = input("Enter text: ")
-width = input("Enter width: ")
+width = int(input("Enter width: "))
 space = width
 
-while len(statement) < width:
-    statement = statement + " "
+while len(text) < width:
+    text = text + " "
     space += 1
+print(f'"{text}"')
