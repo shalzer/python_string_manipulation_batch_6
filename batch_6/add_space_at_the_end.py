@@ -11,5 +11,4 @@ space = width
 
 while len(text) < width:
     text = text + " "
-    space += 1
 print(f'"{text}"')
