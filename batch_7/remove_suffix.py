@@ -7,3 +7,4 @@
 #print result
 
 user_input = input("Enter text: ")
+suffix = input("suffix to remove: ")
