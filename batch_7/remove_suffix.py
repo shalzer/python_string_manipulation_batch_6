@@ -11,3 +11,4 @@ suffix = input("suffix to remove: ")
 
 if user_input.endswith(suffix):
     user_input = user_input[:-len(suffix)]
+print(user_input)
