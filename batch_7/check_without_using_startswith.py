@@ -11,3 +11,5 @@ prefix = input("Prefix to check: ")
 
 if text[:len(prefix)] == prefix:
     print(f"The text starts with {prefix}")
+else:
+    print(f"The text does not start with {prefix}")
