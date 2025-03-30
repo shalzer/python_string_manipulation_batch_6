@@ -4,3 +4,5 @@
 #Set space equal to width
 #Create loop that adds spaces to text until it's equal with the entered width
 #Print the final output
+
+text = input("Enter text: ")
