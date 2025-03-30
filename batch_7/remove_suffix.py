@@ -5,3 +5,5 @@
 #Check if the input ends w entered suffix
 #remove if yes
 #print result
+
+user_input = input("Enter text: ")
