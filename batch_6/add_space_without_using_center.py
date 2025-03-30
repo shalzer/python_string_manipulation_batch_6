@@ -9,3 +9,5 @@
 
 text = input("Enter text: ")
 width = int(input("Enter total width: "))
+if len(text) >+ width:
+    result = text
