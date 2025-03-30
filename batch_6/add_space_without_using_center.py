@@ -11,3 +11,8 @@ text = input("Enter text: ")
 width = int(input("Enter total width: "))
 if len(text) >+ width:
     result = text
+else:
+    total_space = width - len(text)
+    left_space = total_space // 2
+    right_space = total_space - left_space
+    result = " " * left_space + text + " " * right_space
