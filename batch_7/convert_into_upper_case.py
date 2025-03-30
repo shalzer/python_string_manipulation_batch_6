@@ -4,3 +4,5 @@
 #Using .lower, convert the input into lower case
 #Then using .swapcase, it converts the input into upper case
 # Print the result
+
+text = input("Enter text: ")
