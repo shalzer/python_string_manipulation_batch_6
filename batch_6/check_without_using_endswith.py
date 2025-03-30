@@ -5,3 +5,5 @@
 #Check if the input ends with the entered suffix
 #Print if it ends with the entered suffix
 #Else, it will print "does not end with"
+
+text = input("Enter text: ")
