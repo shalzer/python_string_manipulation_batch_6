@@ -8,3 +8,5 @@
 
 text = input("Enter text: ")
 prefix = input("Prefix to check: ")
+
+if text[:len(prefix)] == prefix:
