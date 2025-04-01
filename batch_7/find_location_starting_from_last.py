@@ -4,3 +4,6 @@
 #Ask keyword to find
 #Check if keyword is in text by using rfind
 #Print result
+
+text = input("Enter text: ")
+keyword = input("Enter keyword to find: ")
