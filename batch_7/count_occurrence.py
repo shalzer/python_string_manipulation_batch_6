@@ -10,3 +10,4 @@ text = input("Enter text")
 keyword = input("Keyword to count: ")
 for i in range(len(text) - len(keyword) + 1):
     if text[i:i + len(keyword)] == keyword:
+        count += 1
