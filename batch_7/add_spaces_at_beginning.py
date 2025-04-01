@@ -8,3 +8,4 @@
 text = input("Enter text: ")
 width = int(input("Enter width: "))
 text = " " * (width - len(text)) + text
+print(f'"{text}')
