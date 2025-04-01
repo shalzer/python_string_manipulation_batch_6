@@ -4,3 +4,7 @@
 #Ask user for total width
 #Add space at beginning to make it equal to entered width
 #print result
+
+text = input("Enter text: ")
+width = int(input("Enter width: "))
+text = " " * (width - len(text)) + text
