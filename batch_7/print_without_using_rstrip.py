@@ -5,3 +5,4 @@
 #Print the trimmed string
 
 user_input = input("Enter text: ")
+last_entered = len(user_input) - 1
