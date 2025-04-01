@@ -5,3 +5,6 @@
 #Initialize counter to track occurrence
 #loop through input
 #Print result
+
+text = input("Enter text")
+keyword = input("Keyword to count: ")
