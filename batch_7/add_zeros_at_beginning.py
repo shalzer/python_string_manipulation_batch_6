@@ -6,3 +6,4 @@
 #Print result
 
 text = input("Enter text: ")
+width = int(input("Enter width: "))
