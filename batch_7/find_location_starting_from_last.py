@@ -8,3 +8,4 @@
 text = input("Enter text: ")
 keyword = input("Enter keyword to find: ")
 if keyword in text:
+    print(text.find(keyword))
