@@ -7,3 +7,6 @@
 
 text = input("Enter text: ")
 width = int(input("Enter width: "))
+
+if len(text) < width:
+    text = "0" * (width - len(text)) + text
